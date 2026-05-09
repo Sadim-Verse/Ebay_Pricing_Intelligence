@@ -128,7 +128,7 @@ The tool warns when sample size is small (<5 records) or when a fallback is used
 
 We packaged the pricing logic and key charts into an interactive web app.
 
-**Live demo:** [https://your-app-url.streamlit.app/]([https://your-app-url.streamlit.app/](https://ebay-market-intelligence-1.streamlit.app/))  
+**Live demo:** [[https://your-app-url.streamlit.app/](https://ebay-market-intelligence-1.streamlit.app/)]([https://your-app-url.streamlit.app/](https://ebay-market-intelligence-1.streamlit.app/))  
 
 ### Dashboard features
 
